@@ -1,0 +1,7 @@
+# Tested with Python 3.10.19.
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.2
+# GPU runs were tested with the CUDA 12.8 build of PyTorch.
+torch==2.8.0
+tqdm==4.67.1
